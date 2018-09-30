@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+input {
+  margin-top: 10px;
+  height: 25px;
+  line-height: 25px;
+  width: 100%;
+  text-indent: 10px;
+}
+
+.listArea {
+  width: 500px;
+  margin: auto;
+}
